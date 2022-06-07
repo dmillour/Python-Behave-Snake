@@ -1,0 +1,5 @@
+[behave]
+color = True
+show_snippets = False
+show_source = False
+show_timings = False
